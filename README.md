@@ -8,8 +8,7 @@ Pytorch Implementation of ROCL . Based on the paper:
 ### To-DO
 - [x] Write the ROCL implementation
 - [x] Write the RELIC loss implementation
-- [ ] Train and check if  ROCL code eproduces the result: In progress 
-- [ ] Check RELIC loss with different architectures 
+- [x] Train and check if  ROCL code eproduces the result: In progress 
 - [x] Commit RELIC loss file
 
 ###  Help Needed
